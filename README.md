@@ -12,7 +12,7 @@ In this project, you will implement popularity-based, feature-based and collabor
 
 **Algorithms**
 
-The following algorithems were chosen:
+The following algorithms were chosen:
 
 - Popularity-based/Community Based - True Bayesian Estimate
 - Feature-based - Genre based Vector Space Model
